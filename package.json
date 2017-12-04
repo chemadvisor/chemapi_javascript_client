@@ -1,6 +1,6 @@
 {
   "name": "chemadvisor-chemApi",
-  "version": "0.9.6 beta",
+  "version": "0.9.6",
   "description": "REST_api_to_access_ChemADVISOR_maintained_substance_and_regulatory_data_",
   "license": "Apache-2.0",
   "main": "src/index.js",
