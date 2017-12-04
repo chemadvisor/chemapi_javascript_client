@@ -1,0 +1,18 @@
+{
+  "name": "chemadvisor-chemApi",
+  "version": "0.9.6 beta",
+  "description": "REST_api_to_access_ChemADVISOR_maintained_substance_and_regulatory_data_",
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "dependencies": {
+    "superagent": "1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
